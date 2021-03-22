@@ -27,4 +27,6 @@ urlpatterns = [
     path('result',views.result,name='result'),
     # when /admin is added go to admin.site.urls
     path('admin/', admin.site.urls),
+
+    
 ]
