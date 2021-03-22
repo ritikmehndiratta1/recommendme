@@ -30,7 +30,7 @@ SECRET_KEY = '*-670-$+g+sw@0nq0+jvud4cnu=x0#*#&gfofm$qjm4s2%kagy'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1','recommendmo.herokuapp.com']
+ALLOWED_HOSTS = ['127.0.0.1','movierecomm2.herokuapp.com']
 
 
 # Application definition
